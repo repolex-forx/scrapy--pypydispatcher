@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "pypydispatcher",
+  "versions": [
+    {
+      "commit": "3bee78abf29e04ffd4ee73e7b2419f9c58a3c71c",
+      "tag": "",
+      "parsed_at": "2026-10-12T06:18:52.604133+00:00"
+    }
+  ]
+}
