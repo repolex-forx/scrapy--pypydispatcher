@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scrapy/pypydispatcher/commit/3bee78abf29e04ffd4ee73e7b2419f9c58a3c71c",
       "git:hexsha": "3bee78abf29e04ffd4ee73e7b2419f9c58a3c71c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scrapy/pypydispatcher/commit/e8a9a862c12d6c18affe5d3c91aafa9f829c59b8",
